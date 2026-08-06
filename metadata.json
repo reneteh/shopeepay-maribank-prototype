@@ -1,0 +1,6 @@
+{
+  "name": "ShopeePay & MariBank Redesign Prototype",
+  "description": "Interactive mobile prototype and strategic design deck for the ShopeePay Homepage redesign and MariBank savings onboarding experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
